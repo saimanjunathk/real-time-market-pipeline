@@ -1,0 +1,9 @@
+pandas
+numpy
+requests
+streamlit
+plotly
+scikit-learn
+faker
+sqlalchemy
+pytest
